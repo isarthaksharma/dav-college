@@ -31,10 +31,10 @@ const LeaderCard = ({ name, position, image, description }: LeaderProps) => {
 const Leadership = () => {
   const leaders = [
     {
-      name: "Dr. Rajesh Kumar",
+      name: "Dr. Amardeep Gupta",
       position: "Principal",
-      image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cHJvZmVzc2lvbmFsJTIwbWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-      description: "Dr. Kumar has over 25 years of academic experience and has been leading DAV College since 2015."
+      image: "https://www.davcollegeasr.org/images/about_02.jpg",
+      description: "Dr.Gupts has over 25 years of academic experience and has been leading DAV College since 2015."
     },
     {
       name: "Dr. Priya Sharma",
@@ -49,9 +49,9 @@ const Leadership = () => {
       description: "Prof. Patel focuses on student welfare and has developed several student support programs."
     },
     {
-      name: "Dr. Meera Desai",
+      name: "Dr. banvir",
       position: "Head of Research",
-      image: "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb2Zlc3Npb25hbCUyMHdvbWFufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      image: "https://www.google.com/imgres?q=banvir%20joha%3Bl&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D627420826052138&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fbanvirrjohal%2F&docid=2oacbDLzfqkLsM&tbnid=KrDiL4AeltDfUM&vet=12ahUKEwimqKbAzKiNAxUZjq8BHdJ3DocQM3oECGYQAA..i&w=720&h=893&hcb=2&ved=2ahUKEwimqKbAzKiNAxUZjq8BHdJ3DocQM3oECGYQAA",
       description: "Dr. Desai has published over 50 research papers and leads the institution's research initiatives."
     },
     {

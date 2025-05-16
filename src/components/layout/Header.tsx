@@ -20,7 +20,9 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link to="/" className="font-bold text-xl text-primary">
+          
+          <Link to="https://pbs.twimg.com/profile_images/1151148480833785856/AUVmt05__200x200.jpg"
+           className="font-bold text-xl text-primary">
             DAV College
           </Link>
 

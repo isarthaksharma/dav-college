@@ -122,6 +122,12 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
+               <li>
+                <Link to="https://www.davcmc.net.in/" className="hover:text-accent">DAVCMC, New Delhi</Link>
+              </li>
+              <li>
+                <Link to="https://www.ugc.ac.in/" className="hover:text-accent">UGC</Link>
+              </li>
               <li>
                 <Link to="/about" className="hover:text-accent">About Us</Link>
               </li>
@@ -143,6 +149,8 @@ const Footer = () => {
               <li>
                 <Link to="/results" className="hover:text-accent">Results</Link>
               </li>
+              
+              
             </ul>
           </div>
 
@@ -151,7 +159,9 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-start space-x-3">
                 <MapPin size={20} className="mt-0.5 flex-shrink-0" />
-                <span>123 College Road, City, State, 123456</span>
+                <span>Katra Sher Singh, I/s Hathi Gate
+Amritsar, Punjab-143001, India.
+</span>
               </li>
               <li className="flex items-center space-x-3">
                 <Phone size={20} className="flex-shrink-0" />
@@ -239,7 +249,7 @@ const Footer = () => {
                     <FormItem>
                       <FormLabel>Phone Number</FormLabel>
                       <FormControl>
-                        <Input placeholder="+91 98765 43210" {...field} />
+                        <Input placeholder="0183-2553377,2534971" {...field} />
                       </FormControl>
                       <FormMessage />
                     </FormItem>

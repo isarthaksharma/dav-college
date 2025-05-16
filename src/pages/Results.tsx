@@ -5,7 +5,7 @@ import { Button } from '@/components/ui/button';
 import { ExternalLink, FileText } from 'lucide-react';
 
 const Results = () => {
-  const officialResultsURL = "https://gnduexams.in/";
+  const officialResultsURL = "http://collegeadmissions.gndu.ac.in/studentArea/GNDUEXAMRESULT.aspx";
   
   const resultSections = [
     {
@@ -60,9 +60,9 @@ const Results = () => {
             All official examination results are available on the GNDU Examination Portal. Click the button below to access your results using your registration number and date of birth.
           </p>
           <Button variant="secondary" className="gap-2" asChild>
-            <a href={officialResultsURL} target="_blank" rel="noopener noreferrer">
+            <a href={officialResultsURL} target="_blank" rel="http://result.gndu.ac.in/web/annualug.asp">
               <ExternalLink className="h-5 w-5" />
-              Visit Official Results Portal
+              Visit Official Results Portal 
             </a>
           </Button>
         </div>

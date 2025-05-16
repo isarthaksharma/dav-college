@@ -149,21 +149,23 @@ const Contact = () => {
                 <MapPin className="h-5 w-5 text-primary mt-1 flex-shrink-0" />
                 <div>
                   <p className="font-medium">Address</p>
-                  <p className="text-gray-600">123 College Road, City, State, 123456</p>
+                  <p className="text-gray-600">Katra Sher Singh, I/s Hathi Gate
+Amritsar, Punjab-143001, India.
+</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <Phone className="h-5 w-5 text-primary flex-shrink-0" />
                 <div>
                   <p className="font-medium">Phone</p>
-                  <p className="text-gray-600">+91 123-456-7890</p>
+                  <p className="text-gray-600">0183-2553377,2534971</p>
                 </div>
               </div>
               <div className="flex items-center space-x-4">
                 <Mail className="h-5 w-5 text-primary flex-shrink-0" />
                 <div>
                   <p className="font-medium">Email</p>
-                  <p className="text-gray-600">info@davcollege.edu</p>
+                  <p className="text-gray-600">davasr@yahoo.com</p>
                 </div>
               </div>
             </CardContent>

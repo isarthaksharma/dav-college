@@ -15,20 +15,20 @@ import { supabase } from '@/integrations/supabase/client';
 
 const campusImages = [
   {
-    url: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29sbGVnZSUyMGNhbXB1c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1200&q=60",
-    caption: "Aerial view of the DAV College main campus"
+    url: "https://github.com/isarthaksharma/photo/blob/main/IMG_0931.JPG?raw=true",
+    caption: "Library"
   },
   {
-    url: "https://images.unsplash.com/photo-1592164003822-a3a9692a5b43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1200&q=60",
-    caption: "The iconic DAV College main building"
+    url: "https://github.com/isarthaksharma/photo/blob/main/IMG_0342.JPG?raw=true",
+    caption: "Mind Venture Lab"
   },
   {
-    url: "https://images.unsplash.com/photo-1607237138185-eedd9c632b0b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvbGxlZ2UlMjBjYW1wdXN8ZW58MHx8MHx8&auto=format&fit=crop&w=1200&q=60",
-    caption: "Students studying in our landscaped gardens"
+    url: "https://github.com/isarthaksharma/photo/blob/main/IMG_4633.JPG?raw=true",
+    caption: "Sports Complex"
   },
   {
-    url: "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNvbGxlZ2UlMjBjYW1wdXN8ZW58MHx8MHx8&auto=format&fit=crop&w=1200&q=60",
-    caption: "Modern lecture halls for an optimal learning experience"
+    url: "https://github.com/isarthaksharma/photo/blob/main/IMG_7434.JPG?raw=true",
+    caption: "Arsh Auditorium"
   }
 ];
 
